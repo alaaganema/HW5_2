@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hello world");
             Console.WriteLine("making a change to pull it");
+            Console.WriteLine("making a change to build it with CI");
+
 
         }
     }
